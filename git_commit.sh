@@ -10,5 +10,8 @@ echo ""
 
 
 git commit -m "More updates" Linear/Charts_With_Numbers/*jpg
-git commit -m "More updates" Linear/Charts_With_Numbers/*jpg
+git commit -m "More updates" Linear/Charts_Without_Numbers/*jpg
 
+
+git commit -m "More updates" Long_Linear/Charts_With_Numbers/*jpg
+git commit -m "More updates" Long_Linear/Charts_Without_Numbers/*jpg
